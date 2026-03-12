@@ -1,0 +1,10 @@
+# Environments
+.env
+backend/.venv/
+
+# Node dependencies
+frontend/node_modules/
+
+# Python cache
+backend/__pycache__/
+*.pyc
