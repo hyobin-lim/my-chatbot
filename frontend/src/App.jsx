@@ -1,7 +1,8 @@
 import { useState } from "react";
 import "./App.css";
 
-const API = "http://localhost:8000/chat";
+// const API = "http://localhost:8000/chat";
+const API = "https://my-chatbot-igjt.onrender.com/chat";
 
 export default function App() {
   const [msgs, setMsgs] = useState([]);
